@@ -12,4 +12,4 @@ elif option == "T":
   print "Area: %f" % area
 else:
   print "Error! The shape you input is invalid."
-print "Thank You! Program Exiting..."
+print "Thank You, Program Exiting..."
